@@ -1,7 +1,7 @@
-const BattleMyShip = require('./lib/index');
+const Battleship = require('./lib/index');
 
-const battleMyShip = new BattleMyShip({
-  title: 'Battle My Ship',
+const battleship = new Battleship({
+  title: 'Battleship',
 });
 
-battleMyShip.start();
+battleship.start();

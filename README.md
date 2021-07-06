@@ -1,3 +1,4 @@
-# battle-my-ship
+# Battleship
 
+``npm i``  
 ``npm run game``
